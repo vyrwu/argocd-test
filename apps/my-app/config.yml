@@ -2,7 +2,3 @@ team: platform-engineering
 envs:
   - name: stage
   - name: test
-    skipDefaultVersion: true
-    additionalVersions:
-      - name: 0.2.3
-      - name: nightly
