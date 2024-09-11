@@ -2,3 +2,6 @@ team: platform-engineering
 envs:
   - name: stage
   - name: test
+    versions:
+      - default: true
+      - name: qa
