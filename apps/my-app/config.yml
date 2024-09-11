@@ -3,5 +3,4 @@ envs:
   - name: test
     versions:
       - default: false
-        name: alpha
       - name: beta
