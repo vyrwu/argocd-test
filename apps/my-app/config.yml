@@ -1,1 +1,6 @@
 team: platform-engineering
+envs:
+  - name: test
+    versions:
+      - name: alpha
+      - name: beta
