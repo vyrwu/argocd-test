@@ -1,6 +1,4 @@
 team: platform-engineering
 envs:
   - name: test
-    versions:
-      - default: false
-      - name: beta
+  - name: stage
